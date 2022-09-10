@@ -1,0 +1,36 @@
+$purple: #8d53ff;
+$pink: #ca6be6;
+$white: #f8f8f8;
+$dark: #1f1f1f;
+$red: #ff6057;
+$yellow: #ffbd2e;
+$green: #27c93f;
+$lightgray: #c9c9c9;
+
+$transition: all 250ms ease;
+
+.shadowed {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
+}
+
+.imgme__parent {
+  transition: all 0.5s;
+  .imgme {
+    width: 85%;
+    margin: auto;
+    transform: translate(-50%, -50%);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    transition: all 0.5s;
+  }
+
+  &:hover .imgme {
+    transform: scale(1.5) translate(-25%, -50%);
+  }
+
+  &:hover {
+    transform: scale(0.7);
+  }
+}
