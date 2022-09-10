@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.859eb055.css",
+    "main.js": "/static/js/main.cf3b3d5c.js",
+    "static/media/self.png": "/static/media/self.be082ace00bb7767df54.png",
+    "static/media/nopreview.png": "/static/media/nopreview.26ad9a86f53e5c09ac03.png",
+    "static/media/surbhi-portfolio.png": "/static/media/surbhi-portfolio.f9d633cbbec190584749.png",
+    "static/media/Surbhi.png": "/static/media/Surbhi.f8f8982ee07c47f3e449.png",
+    "index.html": "/index.html",
+    "main.859eb055.css.map": "/static/css/main.859eb055.css.map",
+    "main.cf3b3d5c.js.map": "/static/js/main.cf3b3d5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859eb055.css",
+    "static/js/main.cf3b3d5c.js"
+  ]
+}
